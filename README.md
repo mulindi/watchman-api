@@ -2,7 +2,7 @@
 > An API to gather and display all news released by Zambia's top online newspapers.
 
 #### NB: You need a rapid API account in order to use this API as it provides you with an API key.
-https://rapidapi.com/matongomulindi@gmail.com/api/zambian-news/
+https://rapidapi.com/matongomulindi@gmail.com/api/watchman/
 
 ### Get articles from all sources
 
