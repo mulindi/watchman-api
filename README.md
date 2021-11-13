@@ -8,7 +8,7 @@ https://rapidapi.com/matongomulindi@gmail.com/api/watchman/
 
 ### Request
 
-`GET /news/`
+`GET /api/v1/news/`
 
 ### Response
 ##### The results usually go up > 200
@@ -40,7 +40,7 @@ https://rapidapi.com/matongomulindi@gmail.com/api/watchman/
 ### Request
 ##### `id` is an `int` >= 1
 
-`GET /news/id`
+`GET /api/v1/news/id`
 
 ### Response
 
@@ -63,7 +63,7 @@ https://rapidapi.com/matongomulindi@gmail.com/api/watchman/
 
 ### Request
 
-`GET /news/sources/lusakatimes`
+`GET /api/v1/news/sources/lusakatimes` ( this endpoint also has an `:id` filter )
 
 ### Response
 
